@@ -18,7 +18,7 @@ module.exports = function buildList() {
     'tags': {},
     'logoURI': 'ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9',
     'keywords': [
-      'uniswap',
+      'co-swap',
       'default'
     ],
     tokens: [
